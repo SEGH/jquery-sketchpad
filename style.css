@@ -1,6 +1,7 @@
 #container {
-  height: 16em;
-  width: 16em;
+  margin: auto;
+  height: 50em;
+  width: 50em;
 }
 .square {
   height: 1em;
@@ -10,4 +11,9 @@
   float: left;
   margin: 0;
   padding: 0;
+}
+button {
+  margin: auto;
+  height: 2em;
+  width: 50em;
 }

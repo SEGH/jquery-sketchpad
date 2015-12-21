@@ -4,7 +4,7 @@ var makeGrid = function(grid) {
     $('#container').append('<div></div>');
   }
   $('#container').find('div').addClass('square');
-  var gridSize = 16/grid;
+  var gridSize = 50/grid;
   $('.square').width(gridSize + 'em');
   $('.square').height(gridSize + 'em');
   $('.square').hover(changeShade);

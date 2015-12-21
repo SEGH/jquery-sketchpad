@@ -1,0 +1,13 @@
+#container {
+  height: 16em;
+  width: 16em;
+}
+.square {
+  height: 1em;
+  width: 1em;
+  background: black;
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 0;
+}
